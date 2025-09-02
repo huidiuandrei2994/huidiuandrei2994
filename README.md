@@ -16,6 +16,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
 </p>
+
 ![Role](https://img.shields.io/badge/Role-Python%20Developer-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Automation%20%26%20AI-blueviolet?style=for-the-badge)
 [![Audit App](https://img.shields.io/badge/App-Audit%20App-red?style=for-the-badge)](https://web-production-2510b.up.railway.app/audit/5/)
