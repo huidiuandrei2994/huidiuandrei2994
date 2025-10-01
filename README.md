@@ -14,6 +14,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huidiuandrei2994&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=huidiuandrei2994&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/huidiuandrei2994/huidiuandrei2994/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
 ---
 
 ### 🛠️ Languages & Tools  
