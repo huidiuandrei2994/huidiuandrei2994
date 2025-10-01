@@ -1,10 +1,9 @@
-# 👋 Hey, I'm Andrei  
+# 👋 Salut, eu sunt Andrei  
 
-💻 Passionate about building apps with **Python** & **PostgreSQL**  
-🌱 Currently exploring **FastAPI, APIs & Modern Web Development**  
-🚀 Creator of [HotelApp](https://web-production-2510b.up.railway.app/audit/5/)  
-📌 Working on: [Trello-like Project](https://web-production-02fb9.up.railway.app/) – a task management app built with FastAPI + HTML/CSS/JS  
-📫 Reach me at: **huidiu1andrei@gmail.com**
+💻 Junior Developer pasionat de **Python** & **PostgreSQL**  
+🌱 În prezent explorez **FastAPI & dezvoltarea de aplicații web**  
+🚀 Proiecte recente: [HotelApp](https://web-production-2510b.up.railway.app/audit/5/) și [Trello-like Board](https://web-production-02fb9.up.railway.app/)  
+📫 Contact: **huidiu1andrei@gmail.com**
 
 ---
 
@@ -18,21 +17,16 @@
   <img src="https://streak-stats.demolab.com?user=huidiuandrei2994&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/huidiuandrei2994/huidiuandrei2994/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
 ---
 
-### 🛠️ Languages & Tools  
+### 🛠️ Tech Stack  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
 </p>
 
 ---
@@ -43,4 +37,4 @@
 
 ---
 
-⭐ If you like my work, consider giving a star on [GitHub](https://github.com/huidiuandrei2994)!  
+⭐ Dacă îți place munca mea, oferă-mi un **star** pe [GitHub](https://github.com/huidiuandrei2994)!  
